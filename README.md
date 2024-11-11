@@ -52,6 +52,17 @@ Enabling site miWeb.conf** --- Activo el sitio miWeb.conf
 ![imagen](https://github.com/user-attachments/assets/9d1fee75-d881-4365-8322-088b7ccd82a0)
 ![imagen](https://github.com/user-attachments/assets/4e423345-7778-4cb8-b4f5-22752802ec88)
 
+___
+
+Bibliografia
+
+[digitalocean - tutorial apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es?authuser=0)  
+[digitalocena - tutorial SSH](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-es?authuser=0)  
+[hostinger - comandos SSH](https://www.hostinger.es/tutoriales/linux-comandos?authuser=0)  
+
+
+
+
 
 
 
