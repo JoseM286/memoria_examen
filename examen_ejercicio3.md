@@ -15,6 +15,15 @@ index.html** --- Hago un ls para ver que archivos hay dentro de la carpeta, esta
 Enabling site miWeb.conf** --- Activo el sitio miWeb.conf
 11. **To activate the new configuration, you need to run:
   systemctl reload apache2** --- Recargo apache para que me actualice los cambios
+12. **root@usuario-OptiPlex-380:/etc/apache2/sites-available# ifconfig** --- Verifico la ip de mi ordenador
+13. **root@usuario-OptiPlex-380:/etc/apache2/sites-available# sudo nano miWeb.conf** --- Entro al archivo, modifico server admin y documentRoot, luego añado ServerName y ServerAlias
+14. **Abro un explorador y pongo la url www.daw.ejercicio3.com** --- Se abre mi servidor apache con el html que he creado en index.html
+
+
+![imagen](https://github.com/user-attachments/assets/9d1fee75-d881-4365-8322-088b7ccd82a0)
+![imagen](https://github.com/user-attachments/assets/4e423345-7778-4cb8-b4f5-22752802ec88)
+
+
 
 
 
