@@ -1,4 +1,4 @@
-# Examen 1er Trimestre
+
 ## Ejercicio 2
 
 1. **ssh usuario@192.168.0.185** --- *Conectamos a la máquina remota facilitada por el profesor*
