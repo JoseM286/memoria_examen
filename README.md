@@ -6,13 +6,13 @@ El examen consta de 4 partes de temario claramente diferenciadas y puntuadas en 
 Los alumnos tuvimos un máximo de 3horas y media para realizar los 4 ejercicios propuesto por el profesor.
 
 #### Indice y Puntuaciones del examen
-* Realiza el test asignado (3 puntos).
+* Ejercicio 1: Realiza el test asignado (3 puntos).
 
-* SSH + Command line (3 puntos).
+* Ejercicio 2: SSH + Command line (3 puntos).
 
-* Virtualhost (2 puntos)
+* Ejercicio 3: Virtualhost (2 puntos)
 
-* Documentación + Github (2 puntos)
+* Ejercicio 4:Documentación + Github (2 puntos)
 
   ___
 
