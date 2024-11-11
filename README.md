@@ -59,6 +59,9 @@ Enabling site miWeb.conf** --- Activo el sitio miWeb.conf
 
 ___
 
+El examen no era muy dificil pero con la falta de práctica y los errores bloqueantes de los comandos han provocado que me resultara un poco largo y pesado.
+El hecho de no haber poder estar en las clases me ha penalizado bastante, aunque considero que he podido cogerme poco a poco al examen.
+
 Bibliografia
 
 [digitalocean - tutorial apache](https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04-es?authuser=0)  
