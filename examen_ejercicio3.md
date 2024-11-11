@@ -9,5 +9,13 @@
 6. **root@usuario-OptiPlex-380:/home/joseluis# ls /var/www/miWeb
 index.html** --- Hago un ls para ver que archivos hay dentro de la carpeta, esta el index.html
 7. **root@usuario-OptiPlex-380:/home/joseluis# sudo nano /var/www/miWeb/index.html** --- Modifico el archivo con el editor nano para poner la frase: *Success! miWeb virtual host is working!*
-8. 
+8. **root@usuario-OptiPlex-380:/etc/apache2# cd /etc/apache2/sites-available** --- Entro en la carpeta sites-available y hago un ls para ver lo que contiene
+9. **root@usuario-OptiPlex-380:/etc/apache2/sites-available# sudo cp 000-default.conf miWeb.conf** --- Pongo el archivo miWeb.conf
+10. **root@usuario-OptiPlex-380:/etc/apache2/sites-available# sudo a2ensite miWeb.conf
+Enabling site miWeb.conf** --- Activo el sitio miWeb.conf
+11. **To activate the new configuration, you need to run:
+  systemctl reload apache2** --- Recargo apache para que me actualice los cambios
+
+
+
 
