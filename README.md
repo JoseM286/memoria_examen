@@ -1,6 +1,10 @@
 ## DAW 1er Trimestre
 ### Repositorio del examen de Despliegue de aplicaciones web del primer trimestre
-#### Puntuaciones del examen
+
+Este repositorio es el resultado del examen de los alumentos de la academia Agil de Castellón. Cursando el módulo Desarrollo de Aplicaciones Web en primera trimestre del segundo curso.
+El examen consta de 4 partes de temario claramente diferenciadas y puntuadas en el examen que son: ***Markdown***, ***Apache***, ***Comandos SSH*** y ***GitHub***.
+
+#### Indice y Puntuaciones del examen
 * Realiza el test asignado (3 puntos).
 
 * SSH + Command line (3 puntos).
